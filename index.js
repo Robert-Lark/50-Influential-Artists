@@ -279,11 +279,16 @@ genre: Web Design,
 nationality: Your Nationality Here
 bio: Add 1-2 sentences (or use lorem ipsum) "*/
 
-function addArtist(/* Code here */){
-
-    /* Code here */
-
-  }
+function addArtist(array){
+  artists.push(array)
+  return artists;
+    }
+    addArtist([{id: 21,
+  name: "Rob Lark", 
+  years: "1987",
+  genre: "Ambient Chamber Music", 
+  nationality: "New Zealand",
+  bio: "Universe of infinity & darkness. Cyberpunk meets Doom. Universal Nihilism. The future of Doom."}])
 
 
 
