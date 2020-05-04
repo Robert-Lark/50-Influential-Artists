@@ -2,7 +2,20 @@ section.artists-container {
     display:flex;
     flex-direction: row;
     justify-content: space-between;
-    
+
+        @media(max-width: 500px){
+            .tempBorder();
+            border-radius: 45px;
+        width: 200px;
+        height: 100%;
+        margin: 350% 0% 0% 55%;
+        }
+        border-radius: 45px;
+        width: 200px;
+        height: 100%;
+        margin: -55% 0% 0% 55%;
+    }
+}
     div.artist {
         width: 100%;
        
@@ -12,6 +25,20 @@ section.artists-container {
 img {
    padding: 0% 20% 0% 0%;
    width: 90%
+   
+    @media(max-width: 500px){
+        .tempBorder();
+        border-radius: 45px;
+    width: 200px;
+    height: 100%;
+    margin: 350% 0% 0% 55%;
+    }
+    border-radius: 45px;
+    width: 200px;
+    height: 100%;
+    margin: -55% 0% 0% 55%;
+}
+}
         
    
     
