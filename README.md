@@ -25,10 +25,28 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. How would you describe preprocessing to someone new to CSS?
+
+Just as in languages like English you might use shorthand or short form as a way of compressing large amounts of information into a more manageable form Preprocessors allow for the writing of code in a robust short-form. This short-hand code is then compiled in its long-form on a separate css page which is then read by the browser. 
+
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+My favorite concept in preprocessing is its ability to condense code to a more concise block. This makes the entire code more readable and less intimidating to look at. 
+
+The concept that gives me the most trouble is trouble-shooting errors that may occur in the terminal or in the codes relationship to Git-Hub when compilers and preprocessors are running. 
+
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable can be thought of as the building blocks of code. They allow for assignment of large blocks of data which can then called or used by invoking the variables name. In this way variables allow us to write more semantic code as well as keeping our clean and concise. 
+
 4. What is the purpose of using functions in code?
+
+Functions can be thought of as small programs - they allow us to execute various… well, functions while our code is running. One of the many uses of a function is analysis of data - for example you might have a function that iterates through a customer list and extracts requested data from that list.
+
+
 5. What is a JSON data?
+
+JSON stands for JavaScript Object Notation. It is a way for developers to communicate	with servers & vice versa. Basically all data is converted to a format that can be read either by the client or the server. That format is Object Notation. 
 
 You may need to look up an answer but, you are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
